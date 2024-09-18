@@ -3,7 +3,7 @@
 Please refer to the Netdecoder paper <https://doi.org/10.1093/nar/gkw166> for details about the algorithms and figures.
 
 ## Prerepuisites
-NetDecoder was developed and tested using Java version 1.8. The Oracle JDK, not the open JDK, was used. Therefore, werecommend to have Oracle JDK version 1.8 or higher installed. The R version used was 3.1.1 and the required R packagesare: gplots, ggplot2, grid, reshape, reshape2, plyr, RcolorBrewer, igraph and Vennerable. To install Vennerable, please usethe following command in the R command line:
+NetDecoder was developed and tested using Java version 1.8. The Oracle JDK, not the open JDK, was used. Therefore, werecommend to have Oracle JDK version 1.8 or higher installed. The R version used was 3.1.1 and the required R packagesare: gplots, ggplot2, grid, reshape, reshape2, plyr, RcolorBrewer, igraph and Vennerable. To install Vennerable, please use the following command in the R command line:
 ```R
 install.packages("Vennerable", repos="http://R-Forge.R-project.org")
 ```
