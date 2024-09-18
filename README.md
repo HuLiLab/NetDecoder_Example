@@ -11,7 +11,7 @@ The other packages are available through Bioconductor and can be installed using
 ```R
 if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
-BiocManager::install("org.Hs.eg.db")
+BiocManager::install("package name")
 ```
 
 ## Preparing input files
